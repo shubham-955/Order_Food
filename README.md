@@ -1,5 +1,5 @@
-### Syngenta_Assignment
+# Order-Food
 
-# First cd/Frontend - npm install - npm start
+## First cd/Frontend -> npm install -> npm start
 
-# then cd/Backend - npm install - npm run serve
+## then cd/Backend -> npm install -> npm run serve
